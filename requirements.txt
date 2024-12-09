@@ -1,4 +1,4 @@
-pip
+pip==24.3.1
 langchain==0.0.144
 PyPDF2==3.0.1
 streamlit==1.21.0
